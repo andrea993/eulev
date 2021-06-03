@@ -9,7 +9,7 @@
 				background-color:rgb(95, 95, 95);
 			}
 	
-			div.shadow {
+			div.centered {
 				position:absolute;
 				max-width:90%;
 				max-height:50%;
@@ -17,6 +17,7 @@
 				left:50%;
 				overflow:visible;
 			}
+
 			img.formula {
 				position: relative;
 				max-width:100%;
@@ -25,6 +26,7 @@
 				margin-left:-50%;
 				margin-right: 50%;
 			}
+
 			p.txt {
 				font-size: 20px;
 				color: rgb(205, 205, 205);
@@ -34,21 +36,52 @@
 				margin-right: 50%;
 			}
 
+			a.refresh {  
+				font-size: 10px;
+				text-decoration: none;
+				color: rgb(190, 190, 190);
+				position: fixed;     
+				text-align: center;    
+				bottom: 2.5%; 
+				width: 100%;
+			}
+
+
+
 			
 		</style>
+
 	</head>
 
 	<body>
-			<div class="shadow">
+			<div class="centered">
 				<table>
 					<tr>
 						<th><img class="formula" src="eulev.svg" /></th>
 					</tr>
 					<tr>
-						<th><p class="txt">because e is a variable equal to 0</p></th>
+						<th>
+							<p id="txt_id" class="txt">
+								<script>
+									var ss = [
+										"because e is a variable equal to 0", 
+										"it's a legitimate but always false evaluation", 
+										"it's just a cute string not Euler's identity",
+										"it's just a cute string not Euler's identity",
+										"maybe someone is trolling you",
+										"it's not funny"
+										]
+									document.write(ss[Math.floor(Math.random() * ss.length)]);
+								</script>
+							</p>
+						</th>
 					</tr>
 				</table>
 				
 			</div>
 	</body>
+	
+	<footer>
+		<a class="refresh" href=".">Refresh the page</a>
+	</footer>
 </html>
