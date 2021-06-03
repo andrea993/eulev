@@ -7,9 +7,32 @@
    viewBox="0 0 169.70642 47.414669"
    version="1.1"
    id="svg5"
+   sodipodi:docname="eulev.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview92"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.63279218"
+     inkscape:cx="150.12828"
+     inkscape:cy="227.56286"
+     inkscape:window-width="950"
+     inkscape:window-height="739"
+     inkscape:window-x="4"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <g
@@ -318,11 +341,13 @@
      transform="translate(-16.060585,-109.99861)">
     <g
        transform="matrix(5.6054005,0,0,5.6054005,-501.75582,-303.24833)"
-       id="g1067">
+       id="g1067"
+       style="fill:#cdcdcd;fill-opacity:1">
       <g
-         id="g8330">
+         id="g8330"
+         style="fill:#cdcdcd;fill-opacity:1">
         <g
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#cdcdcd;fill-opacity:1"
            id="g1304">
           <use
              xlink:href="#symbol8188"
@@ -330,10 +355,11 @@
              y="81.962997"
              id="use8597"
              width="100%"
-             height="100%" />
+             height="100%"
+             style="fill:#cdcdcd;fill-opacity:1" />
         </g>
         <g
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#cdcdcd;fill-opacity:1"
            id="g5479">
           <use
              xlink:href="#symbol586"
@@ -341,17 +367,19 @@
              y="78.348"
              id="use199"
              width="100%"
-             height="100%" />
+             height="100%"
+             style="fill:#cdcdcd;fill-opacity:1" />
           <use
              xlink:href="#symbol1744"
              x="99.382812"
              y="78.348"
              id="use369"
              width="100%"
-             height="100%" />
+             height="100%"
+             style="fill:#cdcdcd;fill-opacity:1" />
         </g>
         <g
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#cdcdcd;fill-opacity:1"
            id="g2391">
           <use
              xlink:href="#symbol4364"
@@ -359,10 +387,11 @@
              y="81.962997"
              id="use2727"
              width="100%"
-             height="100%" />
+             height="100%"
+             style="fill:#cdcdcd;fill-opacity:1" />
         </g>
         <g
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#cdcdcd;fill-opacity:1"
            id="g2010">
           <use
              xlink:href="#symbol1559"
@@ -370,7 +399,8 @@
              y="81.962997"
              id="use6918"
              width="100%"
-             height="100%" />
+             height="100%"
+             style="fill:#cdcdcd;fill-opacity:1" />
         </g>
       </g>
     </g>
